@@ -1,0 +1,2 @@
+.pt filter=lfs diff=lfs merge=lfs -text
+F:/programming/computer[[:space:]]vision[[:space:]]nanodegree/projects/car_plate_recognition/Egyptian_car_plate/model/best.pt filter=lfs diff=lfs merge=lfs -text
